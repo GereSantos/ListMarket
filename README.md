@@ -5,6 +5,4 @@ Criando uma lista de compras utilizando um array multidimensional e retornando a
 
 ## Linguagens Utilizadas
 
-- Html
-- CSS
 - JavaScript
